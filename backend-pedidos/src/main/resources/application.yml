@@ -1,0 +1,4 @@
+aws:
+  sns:
+    topic:
+      pedidos: arn:aws:sns:us-east-1:383106966143:pedidos-topic
